@@ -1,0 +1,17 @@
+{
+  "name": "subfracture-plugins",
+  "description": "Official Subfracture plugins for Claude Code - Brand strategy, creative tools, and Whole of World Design methodology",
+  "owner": {
+    "name": "Subfracture",
+    "url": "https://subfracture.studio"
+  },
+  "plugins": [
+    {
+      "name": "bwd-brand-world-design",
+      "source": "./bwd-brand-world-design",
+      "description": "Brand World Design - Transform brand strategy into a journey through Seven Chambers governed by Hermetic principles",
+      "version": "1.0.0",
+      "keywords": ["brand-strategy", "positioning", "for-only-because", "whole-of-world-design"]
+    }
+  ]
+}

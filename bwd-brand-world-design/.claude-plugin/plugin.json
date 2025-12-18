@@ -1,0 +1,24 @@
+{
+  "name": "bwd-brand-world-design",
+  "version": "1.0.0",
+  "description": "Brand World Design - Transform brand strategy into a journey through Seven Chambers governed by Hermetic principles. Features 7 guardian agents, FOR/ONLY/BECAUSE positioning, and comprehensive brand world synthesis.",
+  "author": {
+    "name": "Subfracture",
+    "url": "https://subfracture.studio"
+  },
+  "homepage": "https://subfracture.studio/bwd",
+  "license": "MIT",
+  "keywords": [
+    "brand-strategy",
+    "brand-world-design",
+    "whole-of-world-design",
+    "hermetic-principles",
+    "positioning",
+    "for-only-because",
+    "brand-workshop",
+    "subfracture"
+  ],
+  "agents": "./agents/",
+  "commands": "./commands/",
+  "skills": "./skills/"
+}
