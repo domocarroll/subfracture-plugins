@@ -18,7 +18,21 @@
     "brand-workshop",
     "subfracture"
   ],
-  "agents": "./agents/",
-  "commands": "./commands/",
-  "skills": "./skills/"
+  "agents": [
+    "./agents/weaver.md",
+    "./agents/visionary.md",
+    "./agents/architect.md",
+    "./agents/resonant.md",
+    "./agents/navigator.md",
+    "./agents/bard.md",
+    "./agents/skeptic.md"
+  ],
+  "commands": [
+    "./commands/brand-init.md",
+    "./commands/quick-position.md",
+    "./commands/pits.md"
+  ],
+  "skills": [
+    "./skills/brand-world-design"
+  ]
 }
